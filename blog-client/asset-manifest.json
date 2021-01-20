@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-client/static/css/main.79a2df58.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-client/static/js/main.55f85b29.chunk.js",
+    "main.js.map": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-client/static/js/main.55f85b29.chunk.js.map",
+    "runtime~main.js": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-client/static/js/runtime~main.9059feb3.js",
+    "runtime~main.js.map": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-client/static/js/runtime~main.9059feb3.js.map",
+    "static/css/2.b6e3a137.chunk.css": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-client/static/css/2.b6e3a137.chunk.css",
+    "static/js/2.052b0263.chunk.js": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-client/static/js/2.052b0263.chunk.js",
+    "static/js/2.052b0263.chunk.js.map": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-client/static/js/2.052b0263.chunk.js.map",
+    "static/js/3.90e4d931.chunk.js": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-client/static/js/3.90e4d931.chunk.js",
+    "static/js/3.90e4d931.chunk.js.map": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-client/static/js/3.90e4d931.chunk.js.map",
+    "static/css/4.56a7ac85.chunk.css": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-client/static/css/4.56a7ac85.chunk.css",
+    "static/js/4.0099830c.chunk.js": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-client/static/js/4.0099830c.chunk.js",
+    "static/js/4.0099830c.chunk.js.map": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-client/static/js/4.0099830c.chunk.js.map",
+    "index.html": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-client/index.html",
+    "precache-manifest.f5220af8c7241f261ce37869acc11d50.js": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-client/precache-manifest.f5220af8c7241f261ce37869acc11d50.js",
+    "service-worker.js": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-client/service-worker.js",
+    "static/css/2.b6e3a137.chunk.css.map": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-client/static/css/2.b6e3a137.chunk.css.map",
+    "static/css/4.56a7ac85.chunk.css.map": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-client/static/css/4.56a7ac85.chunk.css.map",
+    "static/css/main.79a2df58.chunk.css.map": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-client/static/css/main.79a2df58.chunk.css.map",
+    "static/media/avatar.jpg": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-client/static/media/avatar.35e88cff.jpg",
+    "static/media/good.d8b63480.svg": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-client/static/media/good.d8b63480.svg",
+    "static/media/view.22a794d7.svg": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-client/static/media/view.22a794d7.svg",
+    "static/media/wxqrcode.jpg": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-client/static/media/wxqrcode.e583c6c9.jpg"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-admin/static/css/main.053fa2cd.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-admin/static/js/main.482049e6.chunk.js",
+    "main.js.map": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-admin/static/js/main.482049e6.chunk.js.map",
+    "runtime~main.js": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-admin/static/js/runtime~main.6fff2a21.js",
+    "runtime~main.js.map": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-admin/static/js/runtime~main.6fff2a21.js.map",
+    "static/css/2.1403689c.chunk.css": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-admin/static/css/2.1403689c.chunk.css",
+    "static/js/2.f3d10644.chunk.js": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-admin/static/js/2.f3d10644.chunk.js",
+    "static/js/2.f3d10644.chunk.js.map": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-admin/static/js/2.f3d10644.chunk.js.map",
+    "index.html": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-admin/index.html",
+    "precache-manifest.35f673564b65215bb700b445f7748002.js": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-admin/precache-manifest.35f673564b65215bb700b445f7748002.js",
+    "service-worker.js": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-admin/service-worker.js",
+    "static/css/2.1403689c.chunk.css.map": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-admin/static/css/2.1403689c.chunk.css.map",
+    "static/css/main.053fa2cd.chunk.css.map": "https://cdn.jsdelivr.net/gh/540548050/cdn@1.0.0/blog-admin/static/css/main.053fa2cd.chunk.css.map"
+  }
+}
